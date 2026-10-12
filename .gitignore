@@ -1,0 +1,7 @@
+# 系统/编辑器垃圾
+.DS_Store
+Thumbs.db
+*.log
+
+# 注意：本目录是「生成产物」，由 tools/build_site.py 产出。
+# 若要改内容/加页面，请改生成器的 SYSTEMS 数据后重新生成，不要手改 HTML。
